@@ -1,7 +1,10 @@
 title: Website title
 email: you@example.com
 url: "https://raxod502.github.io"
-baseurl: "/example-website" # remove this line if hosting at github.io root
+# Remove the following line if you are serving your website at your
+# github.io home page rather than at a sub-page (in my case
+# https://raxod502.github.io/example-website).
+baseurl: "/example-website"
 description: Description for the site. This will appear in the footer as well as Google search results.
 navbar:
   - title: About

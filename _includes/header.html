@@ -18,7 +18,7 @@
 
         <div class="trigger">
           {%- for entry in site.navbar -%}
-          <a class="page-link" href="{{ entry.path }}">{{ entry.title | escape }}</a>
+          <a class="page-link" href="{{ entry.path | relative_url }}">{{ entry.title | escape }}</a>
           {%- endfor -%}
         </div>
       </nav>
