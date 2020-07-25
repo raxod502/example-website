@@ -1,0 +1,18 @@
+title: Website title
+email: you@example.com
+url: "https://raxod502.github.io/example-website"
+description: Description for the site. This will appear in the footer as well as Google search results.
+navbar:
+  - title: About
+    path: /about
+  - title: Directory
+    path: /example/
+  - title: Subpage
+    path: /example/subpage
+theme: minima
+markdown: kramdown
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
