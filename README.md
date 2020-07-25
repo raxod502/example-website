@@ -8,7 +8,7 @@ should be suitable as a starting point for anyone to create their own
 personal website. Of course, the appearance can be modified by telling
 [Jekyll](https://jekyllrb.com/) to use a different
 [theme](https://jekyllthemes.io/). This may require more effort than
-it should, due to issues with layout partials (see below), but it
+it should, due to issues with layout includes (see below), but it
 should be totally feasible.
 
 ## Software stack
