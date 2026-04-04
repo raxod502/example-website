@@ -1,5 +1,13 @@
 # Example website
 
+⚠️⚠️⚠️ THIS IS VERY OUT OF DATE AND NOT ACTIVELY MAINTAINED ⚠️⚠️⚠️
+
+(As of 2026-04-03 my actual personal website is done in a totally
+different way and I would no longer recommend people set things up the
+same way I did back in 2020.)
+
+*Original README follows*
+
 This is a [static
 site](https://www.netguru.com/blog/what-are-static-site-generators)
 set up similarly to my [personal
